@@ -20,3 +20,4 @@ To analyze sales data from Blinkit and uncover insights around:
 - **Tableau**
 - Data Modeling & Dashboard
 - Interactive Visual Design
+![Blinkit Business Analysis png](https://github.com/user-attachments/assets/5ec8a02d-cbc6-4ed8-904e-1b7679461967)
